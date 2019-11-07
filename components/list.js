@@ -25,7 +25,7 @@ const List = () => (
       <h2>Clothes</h2>
       <ul>
         <li>
-          MN themed shirts (like{" "}
+          MN themed shirts (L) (like{" "}
           <a
             href="https://www.sotaclothing.com/collections/mens-unisex/products/wood-lake-unisex-tee"
             target="_blank"
