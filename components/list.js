@@ -4,12 +4,18 @@ const List = () => (
       <h2>Games</h2>
       <ul>
         <li>
-          <a href="https://www.target.com/p/nintendo-game-38-watch-super-mario-bros/-/A-80893936">
+          <a
+            href="https://www.target.com/p/nintendo-game-38-watch-super-mario-bros/-/A-80893936"
+            target="_blank"
+          >
             Nintendo Game &amp; Watch / Mario Handheld
           </a>
         </li>
         <li>
-          <a href="https://www.target.com/p/sega-genesis-mini-console/-/A-54602693">
+          <a
+            href="https://www.target.com/p/sega-genesis-mini-console/-/A-54602693"
+            target="_blank"
+          >
             SEGA Genesis Mini
           </a>
         </li>
@@ -69,12 +75,18 @@ const List = () => (
       <h2>Other</h2>
       <ul>
         <li>
-          <a href="https://www.amazon.com/ROKR-Machinarium-Figures-Christmas-Birthday/dp/B0797K1Q9D/ref=sr_1_27">
+          <a
+            href="https://www.amazon.com/ROKR-Machinarium-Figures-Christmas-Birthday/dp/B0797K1Q9D/ref=sr_1_27"
+            target="_blank"
+          >
             Puzzle
           </a>
         </li>
         <li>
-          <a href="https://www.target.com/p/10-7oz-4pk-stemless-cocktail-glasses-threshold-8482/-/A-76202142">
+          <a
+            href="https://www.target.com/p/10-7oz-4pk-stemless-cocktail-glasses-threshold-8482/-/A-76202142"
+            target="_blank"
+          >
             Cocktail glasses
           </a>
         </li>
