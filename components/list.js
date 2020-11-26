@@ -73,6 +73,11 @@ const List = () => (
             Puzzle
           </a>
         </li>
+        <li>
+          <a href="https://www.target.com/p/10-7oz-4pk-stemless-cocktail-glasses-threshold-8482/-/A-76202142">
+            Cocktail glasses
+          </a>
+        </li>
       </ul>
     </div>
     <style jsx>{`
