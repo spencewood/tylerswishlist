@@ -9,6 +9,11 @@ const List = () => (
           </a>
         </li>
         <li>
+          <a href="https://www.target.com/p/sega-genesis-mini-console/-/A-54602693">
+            SEGA Genesis Mini
+          </a>
+        </li>
+        <li>
           <a
             href="https://www.target.com/s?searchTerm=nintendo+giftcard"
             target="_blank"
