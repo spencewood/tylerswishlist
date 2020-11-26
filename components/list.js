@@ -4,19 +4,16 @@ const List = () => (
       <h2>Games</h2>
       <ul>
         <li>
+          <a href="https://www.target.com/p/nintendo-game-38-watch-super-mario-bros/-/A-80893936">
+            Nintendo Game &amp; Watch / Mario Handheld
+          </a>
+        </li>
+        <li>
           <a
             href="https://www.target.com/s?searchTerm=nintendo+giftcard"
             target="_blank"
           >
             Nintendo gift card
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.amazon.com/Truck-Off-Food-Frenzy/dp/B073R8853C/ref=sr_1_1?keywords=truck+off+game&qid=1572828498&sr=8-1"
-            target="_blank"
-          >
-            Truck Off board game
           </a>
         </li>
       </ul>
@@ -27,34 +24,14 @@ const List = () => (
         <li>
           MN themed shirts (L) (like{" "}
           <a
-            href="https://www.sotaclothing.com/collections/mens-unisex/products/wood-lake-unisex-tee"
+            href="https://www.sotaclothing.com/collections/all-clothing/products/lowertown-unisex-tee"
             target="_blank"
           >
             this
           </a>{" "}
           or{" "}
           <a
-            href="https://upnorthtco.com/collections/mens-tees/products/mens-north-star-flake-tee"
-            target="_blank"
-          >
-            this
-          </a>
-          )]
-        </li>
-        <li>
-          Rugged pants (36/30) (like{" "}
-          <a
-            href="https://www.duluthtrading.com/mens-duluthflex-fire-hose-burly-carpenter-pants-46228.html"
-            target="_blank"
-          >
-            this
-          </a>
-          )
-        </li>
-        <li>
-          Casual shorts (L) (like{" "}
-          <a
-            href="https://www.target.com/p/men-s-knit-shorts-goodfellow-co-153/-/A-54196219?preselect=53820784"
+            href="https://www.northmade.co/collections/mpls/products/mpls-sweatshirt-green?variant=32535396417585"
             target="_blank"
           >
             this
@@ -69,6 +46,28 @@ const List = () => (
       <ul>
         <li>Coffee beans</li>
         <li>Coffee gift card</li>
+      </ul>
+    </div>
+    <div className="wishlist">
+      <h2>Pizza</h2>
+      <ul>
+        <li>Parkway Pizza Gift Card</li>
+      </ul>
+    </div>
+    <div className="wishlist">
+      <h2>Beer</h2>
+      <ul>
+        <li>Elevated Gift Card</li>
+      </ul>
+    </div>
+    <div className="wishlist">
+      <h2>Other</h2>
+      <ul>
+        <li>
+          <a href="https://www.amazon.com/ROKR-Machinarium-Figures-Christmas-Birthday/dp/B0797K1Q9D/ref=sr_1_27">
+            Puzzle
+          </a>
+        </li>
       </ul>
     </div>
     <style jsx>{`
