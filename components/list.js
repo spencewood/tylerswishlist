@@ -5,18 +5,10 @@ const List = () => (
       <ul>
         <li>
           <a
-            href="https://www.target.com/p/nintendo-game-38-watch-super-mario-bros/-/A-80893936"
+            href="https://www.target.com/p/nintendo-game-and-watch-the-legend-of-zelda/-/A-83757540"
             target="_blank"
           >
-            Nintendo Game &amp; Watch / Mario Handheld
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.target.com/p/sega-genesis-mini-console/-/A-54602693"
-            target="_blank"
-          >
-            SEGA Genesis Mini
+            Nintendo Game and Watch: The Legend of Zelda
           </a>
         </li>
         <li>
@@ -35,21 +27,23 @@ const List = () => (
         <li>
           MN themed shirts (L) (like{" "}
           <a
-            href="https://www.sotaclothing.com/collections/all-clothing/products/lowertown-unisex-tee"
+            href="https://i-like-you-minneapolis.myshopify.com/collections/t-shirt/products/t-shirt-stp-capital-city"
             target="_blank"
           >
             this
           </a>{" "}
           or{" "}
           <a
-            href="https://www.northmade.co/collections/mpls/products/mpls-sweatshirt-green?variant=32535396417585"
+            href="https://www.sotaclothing.com/collections/mens-unisex/products/high-forest-unisex-tee"
             target="_blank"
           >
             this
           </a>
           )
         </li>
-        <li>Wool Socks</li>
+        <li>Hat (like <a href="https://patinastores.com/products/minnesota-sunset-trucker-hat" target="_blank">this</a> or <a href="https://i-like-you-minneapolis.myshopify.com/products/northmade-co-mpls-hat?_pos=3&_sid=1a5165d61&_ss=r" target="_blank">this</a>)</li>
+        <li>Wool Socks (like <a href="https://nokomisshoes.com/shop/socks/mens/hiking-mens/3-pack-merino-wool-socks/" target="_blank">this</a>)</li>
+        <li>Mittens (like <a href="https://nokomisshoes.com/shop/accessories/accessories-handwear/mittens/chopper-mitten-elk/" target="_blank">this</a>)</li>
       </ul>
     </div>
     <div className="wishlist">
@@ -71,7 +65,7 @@ const List = () => (
         <li>Elevated Gift Card</li>
       </ul>
     </div>
-    <div className="wishlist">
+    {/* <div className="wishlist">
       <h2>Other</h2>
       <ul>
         <li>
@@ -91,7 +85,7 @@ const List = () => (
           </a>
         </li>
       </ul>
-    </div>
+    </div> */}
     <style jsx>{`
       .list-container {
         width: 500px;
